@@ -58,3 +58,4 @@ This opens a window with sliders for the box dimensions `a`, `b`, `c`
 and a chord length probe `s`, live readouts of the volume, `s_max`,
 and `C(s)`, and a log-scale plot of `C(s)` across the full chord
 length range.
+
