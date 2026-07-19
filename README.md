@@ -1,9 +1,12 @@
 # URSA — Chord Length Distribution Estimator
 
-Interactive estimator for the chord length distribution of a randomly
-oriented, isotropic particle track through a rectangular parallelepiped
-(a rectangular box). Built with [Dear ImGui](https://github.com/ocornut/imgui)
-and [ImPlot](https://github.com/epezent/implot).
+Interactive chord length distribution estimator for a rectangular volume
+(Messenger & Ash, *Single Event Phenomena*, Eq. 1.38), built with
+[Dear ImGui](https://github.com/ocornut/imgui) and
+[ImPlot](https://github.com/epezent/implot).
+
+`cmake` `cpp` `glfw` `imgui` `implot` `opengl` `physics-simulation`
+`radiation-effects` `single-event-effects`
 
 ## Background
 
