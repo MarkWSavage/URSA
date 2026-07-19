@@ -1,5 +1,7 @@
 # URSA — Chord Length Distribution Estimator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Interactive chord length distribution estimator for a rectangular volume
 (Messenger & Ash, *Single Event Phenomena*, Eq. 1.38), built with
 [Dear ImGui](https://github.com/ocornut/imgui) and
