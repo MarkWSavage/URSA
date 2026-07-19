@@ -8,6 +8,8 @@ Interactive chord length distribution estimator for a rectangular volume
 `cmake` `cpp` `glfw` `imgui` `implot` `opengl` `physics-simulation`
 `radiation-effects` `single-event-effects`
 
+![Screenshot of the chord length estimator](docs/screenshot.png)
+
 ## Background
 
 Implements **Approximation No. 2 (Eq. 1.38)** for the cumulative chord
